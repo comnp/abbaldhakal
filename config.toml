@@ -1,0 +1,75 @@
+baseURL = "https://abbaldhakal.com.np/"
+languageCode = "en-us"
+title = "Abbaldhakal"
+
+# Uncomment the theme you want to use
+theme = "LoveIt"
+# theme = "ananke"
+# theme = "academic"
+# theme = "PaperMod"
+# theme = "cupper"
+
+paginate = 10
+defaultContentLanguage = "en"
+hasCJKLanguage = false
+enableEmoji = true
+footnoteReturnLinkContents = "↩"
+
+# LoveIt theme parameters
+[params]
+  dateFormat = "Jan 2, 2006"
+  siteDescription = "A brief description of your site."
+  rssFullContent = false
+  author = "Your Name"
+  homeHeaderImage = "images/header.jpg"
+  github = "https://github.com/yourusername"
+  twitter = "https://twitter.com/yourusername"
+  disqusShortname = "your-disqus-shortname"
+
+# Menu configuration (common for all themes)
+[menu]
+  [[menu.main]]
+    identifier = "apply"
+    name = "Apply to US"
+    url = "/apply/"
+    weight = 1
+
+  [[menu.main]]
+    identifier = "correct-way"
+    name = "The Correct Way to Apply to US"
+    url = "/correct-way/"
+    weight = 2
+
+  [[menu.main]]
+    identifier = "scholarships"
+    name = "Find Scholarships"
+    url = "/scholarships/"
+    weight = 3
+
+  [[menu.main]]
+    identifier = "counseling"
+    name = "Get Counseling"
+    url = "/counseling/"
+    weight = 4
+
+  [[menu.main]]
+    identifier = "donate"
+    name = "Donate"
+    url = "/donate/"
+    weight = 5
+
+# Ananke theme specific settings (if any)
+# [params]
+#   some_ananke_param = "value"
+
+# Academic theme specific settings (if any)
+# [params]
+#   some_academic_param = "value"
+
+# PaperMod theme specific settings (if any)
+# [params]
+#   some_papermod_param = "value"
+
+# Cupper theme specific settings (if any)
+# [params]
+#   some_cupper_param = "value"
