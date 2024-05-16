@@ -1,12 +1,12 @@
 baseURL = "https://abbaldhakal.com.np/"
 languageCode = "en-us"
-title = "Abbaldhakal"
+title = "abbaldhakal"
 
 # Uncomment the theme you want to use
-theme = "LoveIt"
+# theme = "LoveIt"
 # theme = "ananke"
-# theme = "academic"
-# theme = "PaperMod"
+# theme = "academic" 
+theme = "PaperMod"
 # theme = "cupper"
 
 paginate = 10

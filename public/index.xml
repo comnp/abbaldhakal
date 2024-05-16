@@ -1,9 +1,54 @@
-<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
-    <channel>
-        <title>Abbaldhakal</title>
-        <link>http://localhost:1313/</link>
-        <description>This is my cool site</description>
-        <generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Tue, 14 May 2024 12:00:00 &#43;0000</lastBuildDate>
-            <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
-        </channel>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>abbaldhakal</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on abbaldhakal</description>
+    <generator>Hugo -- 0.125.7</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 14 May 2024 12:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Apply to US</title>
+      <link>http://localhost:1313/apply/</link>
+      <pubDate>Tue, 14 May 2024 12:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/apply/</guid>
+      <description>Apply to US Applying to universities in the US can be a rewarding experience, but it requires careful planning and preparation. Here are the steps to help you get started:
+Research Universities: Identify the universities and programs that best match your academic and career goals. Prepare Your Application: Gather all necessary documents, such as transcripts, recommendation letters, and test scores. Write Your Essays: Craft compelling personal statements and essays that highlight your strengths and achievements.</description>
+    </item>
+    <item>
+      <title>Donate</title>
+      <link>http://localhost:1313/donate/</link>
+      <pubDate>Tue, 14 May 2024 12:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/donate/</guid>
+      <description>Donate Your generous contributions help us provide resources and support to international students seeking higher education opportunities. Here are some ways you can donate:
+Online Donations: Use our secure online donation form to make a contribution. Sponsorship: Sponsor a scholarship for deserving students. Corporate Giving: Partner with us through your company’s corporate giving program. Fundraising Events: Participate in or host fundraising events to support our cause. Thank you for your support.</description>
+    </item>
+    <item>
+      <title>Find Scholarships</title>
+      <link>http://localhost:1313/scholarships/</link>
+      <pubDate>Tue, 14 May 2024 12:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/scholarships/</guid>
+      <description>Find Scholarships Discover scholarships available for international students. Use the search and filters to find scholarships that match your criteria. Here are some examples:
+Harvard International Scholarship
+University: Harvard University Description: Scholarship for international students demonstrating exceptional academic achievements. Amount: Full tuition Type: Need Based Coverage: Full Tuition Application Link: Apply here Oxford Global Scholarships
+University: University of Oxford Description: Scholarship for international undergraduate students. Amount: £20,000 per year Type: Merit Based Coverage: Partial Scholarships Application Link: Apply here Use the filters above to refine your search and find the best scholarships for you.</description>
+    </item>
+    <item>
+      <title>Get Counseling</title>
+      <link>http://localhost:1313/counseling/</link>
+      <pubDate>Tue, 14 May 2024 12:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/counseling/</guid>
+      <description>Get Counseling Navigating the college application process can be challenging. Our counseling services are here to help you:
+Personalized Guidance: Receive one-on-one counseling sessions to discuss your academic goals and career aspirations. Application Assistance: Get help with preparing your application materials, including essays and recommendation letters. Test Preparation: Access resources and practice tests to help you prepare for standardized tests. Financial Aid Advice: Learn about scholarships, grants, and other financial aid options available to you.</description>
+    </item>
+    <item>
+      <title>The Correct Way to Apply to US</title>
+      <link>http://localhost:1313/correct-way/</link>
+      <pubDate>Tue, 14 May 2024 12:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/correct-way/</guid>
+      <description>The Correct Way to Apply to US Applying to universities in the US involves several key steps. Here is a guide to help you navigate the process:
+Start Early: Begin your research and preparation at least a year before the application deadlines. Understand Requirements: Each university has its own set of requirements. Make sure you understand what each university expects. Take Standardized Tests: Prepare for and take standardized tests such as the SAT, ACT, TOEFL, or IELTS.</description>
+    </item>
+  </channel>
 </rss>
