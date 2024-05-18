@@ -58,18 +58,11 @@ footnoteReturnLinkContents = "↩"
     url = "/donate/"
     weight = 5
 
-# Ananke theme specific settings (if any)
-# [params]
-#   some_ananke_param = "value"
+# Output formats configuration
+[outputs]
+  home = ["HTML", "JSON"]
 
-# Academic theme specific settings (if any)
-# [params]
-#   some_academic_param = "value"
-
-# PaperMod theme specific settings (if any)
-# [params]
-#   some_papermod_param = "value"
-
-# Cupper theme specific settings (if any)
-# [params]
-#   some_cupper_param = "value"
+[outputFormats.JSON]
+  mediaType = "application/json"
+  baseName = "index"
+  isPlainText = true

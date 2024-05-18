@@ -11,14 +11,14 @@
     <loc>http://localhost:1313/donate/</loc>
     <lastmod>2024-05-14T12:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/scholarships/</loc>
-    <lastmod>2024-05-14T12:00:00+00:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/counseling/</loc>
     <lastmod>2024-05-14T12:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/correct-way/</loc>
     <lastmod>2024-05-14T12:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/scholarships/</loc>
+    <lastmod>2023-01-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/categories/</loc>
   </url><url>

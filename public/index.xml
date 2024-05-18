@@ -25,16 +25,6 @@ Research Universities: Identify the universities and programs that best match yo
 Online Donations: Use our secure online donation form to make a contribution. Sponsorship: Sponsor a scholarship for deserving students. Corporate Giving: Partner with us through your company’s corporate giving program. Fundraising Events: Participate in or host fundraising events to support our cause. Thank you for your support.</description>
     </item>
     <item>
-      <title>Find Scholarships</title>
-      <link>http://localhost:1313/scholarships/</link>
-      <pubDate>Tue, 14 May 2024 12:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/scholarships/</guid>
-      <description>Find Scholarships Discover scholarships available for international students. Use the search and filters to find scholarships that match your criteria. Here are some examples:
-Harvard International Scholarship
-University: Harvard University Description: Scholarship for international students demonstrating exceptional academic achievements. Amount: Full tuition Type: Need Based Coverage: Full Tuition Application Link: Apply here Oxford Global Scholarships
-University: University of Oxford Description: Scholarship for international undergraduate students. Amount: £20,000 per year Type: Merit Based Coverage: Partial Scholarships Application Link: Apply here Use the filters above to refine your search and find the best scholarships for you.</description>
-    </item>
-    <item>
       <title>Get Counseling</title>
       <link>http://localhost:1313/counseling/</link>
       <pubDate>Tue, 14 May 2024 12:00:00 +0000</pubDate>
@@ -49,6 +39,14 @@ Personalized Guidance: Receive one-on-one counseling sessions to discuss your ac
       <guid>http://localhost:1313/correct-way/</guid>
       <description>The Correct Way to Apply to US Applying to universities in the US involves several key steps. Here is a guide to help you navigate the process:
 Start Early: Begin your research and preparation at least a year before the application deadlines. Understand Requirements: Each university has its own set of requirements. Make sure you understand what each university expects. Take Standardized Tests: Prepare for and take standardized tests such as the SAT, ACT, TOEFL, or IELTS.</description>
+    </item>
+    <item>
+      <title>Find Scholarships</title>
+      <link>http://localhost:1313/scholarships/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/scholarships/</guid>
+      <description>{{ partial &amp;ldquo;scholarships_search.html&amp;rdquo; . }}
+This is my Find Scholarships page.</description>
     </item>
   </channel>
 </rss>

@@ -1,28 +1,28 @@
 ---
 title: "Find Scholarships"
-layout: "scholarships"
-date: 2024-05-14T12:00:00
+date: 2024-05-18T00:00:00
 draft: false
 ---
 
-# Find Scholarships
+<h1>Find Scholarships</h1>
 
-Discover scholarships available for international students. Use the search and filters to find scholarships that match your criteria. Here are some examples:
+<form id="search-form">
+    <input type="text" id="query" placeholder="Search by name or university">
+    <select id="type">
+        <option value="">Type of Scholarship</option>
+        <option value="Need Based">Need Based</option>
+        <option value="Merit Based">Merit Based</option>
+        <option value="Need Blind">Need Blind</option>
+    </select>
+    <select id="coverage">
+        <option value="">Coverage</option>
+        <option value="Full Ride">Full Ride</option>
+        <option value="Full Tuition">Full Tuition</option>
+        <option value="Partial Scholarships">Partial Scholarships</option>
+    </select>
+    <button type="submit">Search</button>
+</form>
 
-1. **Harvard International Scholarship**
-   - **University**: Harvard University
-   - **Description**: Scholarship for international students demonstrating exceptional academic achievements.
-   - **Amount**: Full tuition
-   - **Type**: Need Based
-   - **Coverage**: Full Tuition
-   - **Application Link**: [Apply here](https://example.com/harvard-scholarship)
-   
-2. **Oxford Global Scholarships**
-   - **University**: University of Oxford
-   - **Description**: Scholarship for international undergraduate students.
-   - **Amount**: £20,000 per year
-   - **Type**: Merit Based
-   - **Coverage**: Partial Scholarships
-   - **Application Link**: [Apply here](https://example.com/oxford-scholarship)
+<div id="results"></div>
 
-Use the filters above to refine your search and find the best scholarships for you.
+<script src="/js/search.js"></script>
